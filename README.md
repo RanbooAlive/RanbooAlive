@@ -11,4 +11,3 @@
 
 
 
-<img width ="500" src="https://64.media.tumblr.com/e066e08808160dced722b0579f0076ae/a79ee24d4ba35508-8a/s640x960/47e01d63bf84a63fc129c5478febbcda7176dcb6.pnj"/> <img width="500" src="https://64.media.tumblr.com/1b4601f70a38e24f25c92f763106c8ba/a79ee24d4ba35508-8f/s1280x1920/eb204f06d45a7b1c9a5127ef36f9eff354a0e939.jpg"/>
