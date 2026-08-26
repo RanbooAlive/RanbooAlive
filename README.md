@@ -10,3 +10,5 @@
 </div>
 
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ybaa0fpkg64ynl527v457uxzv&cover_image=true&theme=spotify-embed&show_offline=false&background_color=4e2b6c&interchange=false&profanity=false&hide_remaster=true&bar_color=8f5ba4&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
+
