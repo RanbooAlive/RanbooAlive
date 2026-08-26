@@ -9,4 +9,8 @@
 <img width="20" src="https://64.media.tumblr.com/bfa1a0e49e52766fe53dac9d27effe4d/d3ef9d6097e654fb-3d/s75x75_c1/3b883a386c40c97de31f1c004310df049462d366.gifv" alt=ahdn> <a href="https://steamcommunity.com/id/cherchinov"/>Steam</a> <img width="20" src="https://64.media.tumblr.com/d849e309a7c05fec60e10267ea02dd6f/ab883db08faa6227-0f/s75x75_c1/1e0698c5b0b8c04a88ea6979c34d5ec41e6aa791.webp" alt=cigs> <a href="https://cherchinov.atabook.org/"/>Atabook<a/><img width="20" src="https://64.media.tumblr.com/461eaaaa0aabb11574c6151acd21a57a/ab883db08faa6227-95/s75x75_c1/edd1fc2f0cc8cd266535ba3a311cb357d672e614.gifv" alt=guitar> <a href="https://www.tiktok.com/@catboyskissing"/>Tiktok<a/> 
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ybaa0fpkg64ynl527v457uxzv&cover_image=true&theme=spotify-embed&show_offline=false&background_color=402d51&interchange=false&profanity=false&hide_remaster=true&bar_color=793f98&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ybaa0fpkg64ynl527v457uxzv&cover_image=true&theme=spotify-embed&show_offline=false&background_color=402d51&interchange=false&profanity=false&hide_remaster=true&bar_color=793f98&bar_color_cover=false&mode=dark">
+  </a>
+</p>
