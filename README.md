@@ -14,4 +14,4 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ybaa0fpkg64ynl527v457uxzv&cover_image=true&theme=spotify-embed&show_offline=false&background_color=402d51&interchange=false&profanity=false&hide_remaster=true&bar_color=793f98&bar_color_cover=false&mode=dark">
   </a>
 </p>
-![](https://komarev.com/ghpvc/?MaxMccartney&color=blueviolet)
+
